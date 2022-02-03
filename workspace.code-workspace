@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "like-spotify",
+			"path": "."
+		},
+		{
+			"name": "songs",
+			"path": "..\\..\\VS code\\HTML,CSS,JAVASCRIPT\\projects\\like spotify\\songs"
+		}
+	],
+	"settings": {}
+}
